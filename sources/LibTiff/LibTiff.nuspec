@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://bitmiracle.com/libtiff/help/license-and-copyright.aspx</licenseUrl>
+    <projectUrl>http://bitmiracle.com/libtiff/</projectUrl>
+    <iconUrl>http://bitmiracle.com/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (C) 2008-2013, Bit Miracle</copyright>
+    <tags>Image Imaging Img Tif Tiff LibTif LibTiff BitMiracle</tags>
+  </metadata>
+</package>
